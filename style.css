@@ -1,0 +1,24 @@
+body{
+}
+.section_background_1{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: rgb(236, 14, 66);
+    font-weight: 800;
+    font-size: 70px;
+    padding-top: 100px;
+    margin: 0;
+}
+#head_paragraph{
+    font-family: 'poppins', sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 0px 250px 0px 250px;
+}
